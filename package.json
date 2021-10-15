@@ -1,0 +1,21 @@
+{
+  "name": "renovate-demo",
+  "version": "1.0.0",
+  "description": "Demo for renovate bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "renovate": "renovate"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Krispin Schulz",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "camelcase": "^6.2.0"
+  },
+  "devDependencies": {
+    "renovate": "^28.1.3"
+  }
+}
